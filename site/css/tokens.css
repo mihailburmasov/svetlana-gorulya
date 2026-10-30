@@ -1,0 +1,53 @@
+:root {
+  color-scheme: light;
+
+  --color-white: #fffdf9;
+  --color-surface: #fffdf8;
+  --color-paper: #fffaf1;
+  --color-milk: #f8f3ea;
+  --color-cream: #f5eddf;
+  --color-champagne: #efe3cf;
+  --color-beige: #e8d9c3;
+  --color-line: #d8c7ad;
+  --color-line-soft: rgba(81, 70, 60, 0.18);
+  --color-charcoal: #3d352e;
+  --color-sepia: #51463c;
+  --color-muted: #7a6a5d;
+  --color-soft: #9a8a7a;
+  --color-bordeaux: #7a2e2a;
+  --color-bordeaux-dark: #5f2022;
+  --color-terracotta: #b66a52;
+  --color-brick-soft: #c7866f;
+  --color-error: #9b2f2f;
+  --color-black: #000000;
+  --color-focus: rgba(119, 43, 44, 0.22);
+
+  --font-display: Georgia, "Times New Roman", serif;
+  --font-body: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  --container: 1180px;
+  --container-narrow: 820px;
+  --container-wide: 1360px;
+
+  --space-2xs: 0.375rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.875rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6rem;
+  --space-3xl: 7rem;
+
+  --radius-xs: 6px;
+  --radius-sm: 14px;
+  --radius-md: 24px;
+  --radius-lg: 36px;
+  --radius-pill: 999px;
+
+  --shadow-soft: 0 28px 80px rgba(81, 70, 60, 0.11);
+  --shadow-card: 0 18px 52px rgba(81, 70, 60, 0.09);
+  --display-hero: clamp(4.2rem, 11vw, 8.8rem);
+  --display-title: clamp(2.4rem, 5.5vw, 5rem);
+  --display-section: clamp(2rem, 4.4vw, 3.9rem);
+  --transition: 180ms ease;
+}

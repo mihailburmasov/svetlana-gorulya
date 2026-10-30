@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /styleguide
+Disallow: /admin
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /styleguide
+Disallow: /admin
+
+Sitemap: https://gorulya.ru/sitemap.xml
